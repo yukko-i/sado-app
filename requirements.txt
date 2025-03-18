@@ -4,4 +4,3 @@ Jinja2
 python-dotenv
 requests
 pandas
-agents # ← が必要ならこれを追加
